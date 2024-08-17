@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, this is my profile 
+
+A cool README is coming soon!
+
 
 <!--
 **NicolauHS/NicolauHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
